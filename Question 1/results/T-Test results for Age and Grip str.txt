@@ -1,0 +1,5 @@
+T-Test results for Age and Grip strength:
+Statistic: 1.1111658325806488
+P-value: 0.3090295183230276
+
+The results of the t-test show that the relationship between grip strength and age is not statistically significant. Since the p-value for the null hypothesis is 0.309, we are unable to rule out the possibility that any observed variations in grip strength between age groups are more likely the result of random variation than of a real difference in means.
